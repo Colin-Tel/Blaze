@@ -26,7 +26,6 @@
   joinNotifyCrew: true
   supervisors: job-supervisors-centcom
   canBeAntag: false
-  whitelisted: true # DeltaV
   accessGroups:
   - AllAccess
   special:
